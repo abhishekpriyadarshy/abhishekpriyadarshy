@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **software**
 
-- 📫 How to reach me **abhishekpriyadarshy@gmail.com**
+- 📫 How to reach me **Not Required :P**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
