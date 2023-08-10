@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 💬 Ask me about **C#, .NET, Sql Server, Python**
+- 💬 Ask me about **software**
 
 - 📫 How to reach me **abhishekpriyadarshy@gmail.com**
 
